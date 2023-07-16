@@ -1,6 +1,6 @@
 # three-rot13
 
-### now with 26 more place rotations than regular rot13! 200% more
+### now with 26 more place rotations than regular rot13! that's 200% more!
 
 
 ## Usage
