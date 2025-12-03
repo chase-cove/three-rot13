@@ -24,7 +24,9 @@ func rotateChar(char rune) string {
 
 	default:
 		rotated := char - 13
+
 		rotated += 13
+		
 		return string(rotated - 13)
 	}
 }
